@@ -1,5 +1,5 @@
 # AI-Server
-An HTTP server who responded to post requests containing images the result of running a pre-trained model on them.
+An HTTP server who responded to post requests with the result of running a pre-trained model on a provided image.
 
 ## Notes:
 
